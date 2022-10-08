@@ -1,0 +1,3 @@
+/home/zhenya/Viz_2/build/CMakeFiles/rebuild_cache.dir
+/home/zhenya/Viz_2/build/CMakeFiles/edit_cache.dir
+/home/zhenya/Viz_2/build/CMakeFiles/camera_test.dir
